@@ -2,7 +2,7 @@
 
 Welcome to my official software engineering portfolio repository. This project is built as a production-grade, highly responsive, single-page application detailing my extensive academic background, professional internships, logic-driven projects, and verified industrial credentials.
 
-ℹ️ *Live Deployment URL:* [Insert your live GitHub Pages or Netlify link here!]
+ℹ️ *Live Deployment URL:* [https://pottolla-kanchana-portfolio.netlify.app/]
 
 ---
 
