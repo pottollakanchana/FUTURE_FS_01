@@ -93,5 +93,5 @@ To run this project on your machine without compilation dependencies:
 
 1. Clone the repository to your desktop machine:
    ```bash
-   git clone https://github.com/pottollakanchana/FUTURE_FS_01.git<img width="960" height="600" alt="home" src="https://github.com/user-attachments/assets/c7e46a19-8265-4fb5-82d2-8c338e67ed32" />
+   git clone https://github.com/pottollakanchana/FUTURE_FS_01.git
 
