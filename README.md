@@ -1,4 +1,4 @@
-<img width="960" height="600" alt="home" src="https://github.com/user-attachments/assets/cc6acbf9-3a3e-4d88-809c-294c848c92a1" />
+
  🚀 Professional Engineering Portfolio - Pottolla Kanchana
 
 Welcome to my official software engineering portfolio repository. This project is built as a production-grade, highly responsive, single-page application detailing my extensive academic background, professional internships, logic-driven projects, and verified industrial credentials.
